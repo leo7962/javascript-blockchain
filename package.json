@@ -1,0 +1,19 @@
+{
+  "name": "javascript-blockchain",
+  "version": "1.0.0",
+  "description": "Este es un ejemplo de cadena de Bloques realizado en JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo7962/javascript-blockchain.git"
+  },
+  "author": "Leonardo Fabián Hernández Peña",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/leo7962/javascript-blockchain/issues"
+  },
+  "homepage": "https://github.com/leo7962/javascript-blockchain#readme"
+}
