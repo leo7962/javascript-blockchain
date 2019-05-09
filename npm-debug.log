@@ -1,9 +1,5 @@
 0 info it worked if it ends with ok
-1 verbose cli [ '/usr/bin/node',
-1 verbose cli   '/usr/bin/npm',
-1 verbose cli   'install',
-1 verbose cli   'crypto-js',
-1 verbose cli   '--save' ]
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', 'crypto-js' ]
 2 info using npm@3.5.2
 3 info using node@v8.10.0
 4 silly loadCurrentTree Starting
@@ -17,14 +13,14 @@
 12 silly mapToRegistry uri https://registry.npmjs.org/crypto-js
 13 verbose request uri https://registry.npmjs.org/crypto-js
 14 verbose request no auth needed
-15 info attempt registry request try #1 at 9:15:33 AM
-16 verbose request id 54e7a56e0f06fd87
+15 info attempt registry request try #1 at 12:24:21 AM
+16 verbose request id 0dd9316def6cefab
 17 http request GET https://registry.npmjs.org/crypto-js
 18 info retry will retry, error on last attempt: Error: socket hang up
-19 info attempt registry request try #2 at 9:15:44 AM
+19 info attempt registry request try #2 at 12:24:32 AM
 20 http request GET https://registry.npmjs.org/crypto-js
 21 info retry will retry, error on last attempt: Error: socket hang up
-22 info attempt registry request try #3 at 9:16:44 AM
+22 info attempt registry request try #3 at 12:25:32 AM
 23 http request GET https://registry.npmjs.org/crypto-js
 24 silly fetchPackageMetaData Error: socket hang up
 24 silly fetchPackageMetaData     at TLSSocket.onHangUp (_tls_wrap.js:1137:19)
@@ -62,7 +58,7 @@
 30 verbose stack     at process._tickCallback (internal/process/next_tick.js:180:9)
 31 verbose cwd /mnt/c/Users/Ingen/source/repos/javascript-blockchain
 32 error Linux 4.4.0-17763-Microsoft
-33 error argv "/usr/bin/node" "/usr/bin/npm" "install" "crypto-js" "--save"
+33 error argv "/usr/bin/node" "/usr/bin/npm" "install" "crypto-js"
 34 error node v8.10.0
 35 error npm  v3.5.2
 36 error code ECONNRESET
