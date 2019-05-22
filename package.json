@@ -1,8 +1,11 @@
 {
-  "name": "javascript-blockchain",
+  "name": "leocoin",
   "version": "1.0.0",
-  "description": "Este es un ejemplo de cadena de Bloques realizado en JavaScript",
-  "main": "main.js",
+  "description": "Esta es la nueva versión de una cadena de bloques",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "tests"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
